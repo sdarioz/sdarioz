@@ -1,6 +1,7 @@
 **A NOTE FOR FUTURE EMPLOYERS:**
 
 If you are looking for code written by me, that thing is closed-source. 
+
 Almost 98% of the code I've written is private. If you want to evaluate my code skills let's have a meeting :)
 
 <h1 align="center">Hey, 👋 I'm Sebastian</h1>  
